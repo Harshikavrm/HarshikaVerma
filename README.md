@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harshika Verma
-- 👀 I’m interested in penetration testing, network engineering, network security, network analyst.
-- 🌱 I’m currently learning Defense in Depth(#python, #sql, #Linux for security engineers).
+- 👀 I’m a penetration tester.
 - 💞️ I’m looking to collaborate on open sources.
 - 📫 How to reach me https://www.linkedin.com/in/harshikaverma/
 - 😄 Pronouns: She/Her
